@@ -1,9 +1,17 @@
 # Open Github Wall
 
-Open Github Wall is a beginner-friendly open-source project where anyone can make their **first GitHub contribution**.
+👉 Open Github Wall is a beginner-friendly open-source project where anyone can make their **first GitHub contribution**.
 
 Each contributor adds a small JSON file with their details.  
 One file per person. No conflicts. No complexity.
+
+---
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=n1mmnBsVjjY">
+        <img src="https://img.youtube.com/vi/n1mmnBsVjjY/0.jpg"/>
+    </a>
+</p>
 
 ---
 
