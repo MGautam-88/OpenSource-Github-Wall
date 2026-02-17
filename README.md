@@ -1,11 +1,13 @@
-# Open Github Wall
+# OpenSource Github Wall
 
-👉 Open Github Wall is a beginner-friendly open-source project where anyone can make their **first GitHub contribution**.
+👉 OpenSource Github Wall is a beginner-friendly open-source project by [Ali Solanki](https://github.com/alisolanki) where anyone can make their **first GitHub contribution**.
 
 Each contributor adds a small JSON file with their details.  
 One file per person. No conflicts. No complexity.
 
 ---
+
+### Watch the full video on how to contribute here:
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=n1mmnBsVjjY">
