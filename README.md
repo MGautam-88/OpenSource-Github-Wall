@@ -90,6 +90,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 </a>
 </td>
 <td align='center' width='120px'>
+<a href='https://github.com/ketanmandave'>
+<img src='https://github.com/ketanmandave.png' width='80px' style='border-radius:50%'><br>
+<sub><b>ketanmandave</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
 <a href='https://github.com/khanhashim9262'>
 <img src='https://github.com/khanhashim9262.png' width='80px' style='border-radius:50%'><br>
 <sub><b>khanhashim9262</b></sub>
