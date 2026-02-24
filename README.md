@@ -7,7 +7,7 @@ One file per person. No conflicts. No complexity.
 
 ---
 
-### Watch the full video on how to contribute here:
+### Watch the full video on how to contribute here
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=n1mmnBsVjjY">
@@ -111,6 +111,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <a href='https://github.com/shaikwahab01'>
 <img src='https://github.com/shaikwahab01.png' width='80px' style='border-radius:50%'><br>
 <sub><b>shaikwahab01</b></sub>
+</a>
+</td>
+<td align='center' width='120px'>
+<a href='https://github.com/MGautam-88'>
+<img src='https://i.pinimg.com/originals/57/53/74/575374bf227f9845685a2950dd976f88.png' width='80px' style='border-radius:50%'><br>
+<sub><b>Gautam_Malhotra</b></sub>
 </a>
 </td>
 </tr>
